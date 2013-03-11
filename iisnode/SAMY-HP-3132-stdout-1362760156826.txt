@@ -1,0 +1,2 @@
+Express server listening on port \\.\pipe\aef568a1-d1a4-4782-aea3-47cf89c2a87b
+[90mGET /NodeTact/app/ [32m200 [90m45ms - 170[0m

@@ -1,0 +1,9 @@
+Express server listening on port \\.\pipe\dcaf7f8e-771c-417c-bc74-715288bf673b
+[90mGET /NodeTact/app.js [33m404 [90m0ms[0m
+[90mGET /NodeTact/app [33m404 [90m0ms[0m
+[90mGET /NodeTact/app/foo [33m404 [90m0ms[0m
+[90mGET /NodeTact/app/index [33m404 [90m0ms[0m
+[90mGET /NodeTact/app/ [33m404 [90m0ms[0m
+[90mGET /NodeTact/app/users [33m404 [90m0ms[0m
+[90mGET /NodeTact/app.js [33m404 [90m0ms[0m
+[90mGET /NodeTact/app/ [33m404 [90m0ms[0m
